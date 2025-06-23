@@ -36,13 +36,3 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
-
-    .sidebar {
-      width: 220px;
-      height: 100vh;
-      background-color: #333;
-      color: #fff;
-      padding: 20px;
-      box-sizing: border-box;
-      position: fixed;
-    }
